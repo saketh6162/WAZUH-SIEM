@@ -1,5 +1,7 @@
 # Wazuh SIEM Lab – File Integrity Monitoring (FIM)
 
+This project demonstrates a practical SIEM use case with real-time security monitoring and alert generation using Wazuh.
+
 ## 🔍 Project Description
 
 This project demonstrates the implementation of a Security Information and Event Management (SIEM) lab using Wazuh. The setup includes an Ubuntu-based Wazuh Manager and a Windows-based Wazuh Agent to monitor and detect file system changes in real time.
