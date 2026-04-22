@@ -50,10 +50,6 @@ Successfully built a functional SIEM lab capable of detecting and alerting file 
 * File Integrity Monitoring (FIM)
 * Basic Threat Detection Techniques
 
-## 📸 Screenshots
-
-(Add your dashboard, agent status, and FIM alert screenshots here)
-
 ## 🚀 Future Improvements
 
 * Integration with threat intelligence feeds
